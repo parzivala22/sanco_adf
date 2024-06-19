@@ -1,0 +1,9 @@
+{
+	"name": "sancoadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ca3fb15b-fed7-4343-99c2-bbcd00e70a76",
+		"tenantId": "9ff9b0ac-d4d6-4af8-bd3f-b59b85cea522"
+	}
+}
